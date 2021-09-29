@@ -10,7 +10,10 @@
 		"maze_one_s_23": "node ./src/generate_maze_one.js 6",
 		"maze_two_s_15": "node ./src/generate_maze_two.js 4",
 		"maze_two_s_19": "node ./src/generate_maze_two.js 5",
-		"maze_two_s_23": "node ./src/generate_maze_two.js 6"
+		"maze_two_s_23": "node ./src/generate_maze_two.js 6",
+		"maze_three_s_15": "node ./src/generate_maze_three.js 4",
+		"maze_three_s_19": "node ./src/generate_maze_three.js 5",
+		"maze_three_s_23": "node ./src/generate_maze_three.js 6"
   },
   "repository": {
     "type": "git",
