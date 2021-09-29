@@ -1,0 +1,25 @@
+{
+  "name": "job_test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"maze_one_s_15": "node ./src/generate_maze_one.js 4",
+		"maze_one_s_19": "node ./src/generate_maze_one.js 5",
+		"maze_one_s_23": "node ./src/generate_maze_one.js 6",
+		"maze_two_s_15": "node ./src/generate_maze_two.js 4",
+		"maze_two_s_19": "node ./src/generate_maze_two.js 5",
+		"maze_two_s_23": "node ./src/generate_maze_two.js 6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenkristian/job_test.git"
+  },
+  "author": "kristian ruben sianturi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubenkristian/job_test/issues"
+  },
+  "homepage": "https://github.com/rubenkristian/job_test#readme"
+}
